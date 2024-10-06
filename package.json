@@ -1,6 +1,6 @@
 {
   "name": "1kvsn-ui",
-  "version": "0.0.17",
+  "version": "0.0.1",
   "description": "This is a react component library.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
